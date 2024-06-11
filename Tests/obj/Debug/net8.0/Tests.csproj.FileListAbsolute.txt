@@ -1,0 +1,12 @@
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/bin/Debug/net8.0/Tests.deps.json
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/bin/Debug/net8.0/Tests.dll
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/bin/Debug/net8.0/Tests.pdb
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/obj/Debug/net8.0/Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/obj/Debug/net8.0/Tests.AssemblyInfoInputs.cache
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/obj/Debug/net8.0/Tests.AssemblyInfo.cs
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/obj/Debug/net8.0/Tests.csproj.CoreCompileInputs.cache
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/obj/Debug/net8.0/Tests.sourcelink.json
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/obj/Debug/net8.0/Tests.dll
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/obj/Debug/net8.0/refint/Tests.dll
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/obj/Debug/net8.0/Tests.pdb
+/home/jbmelberg/Git/Inter.ServiceTimer/Tests/obj/Debug/net8.0/ref/Tests.dll

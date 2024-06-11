@@ -1,0 +1,12 @@
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/bin/Debug/net8.0/Infrastructure.RepositoryCore.deps.json
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/bin/Debug/net8.0/Infrastructure.RepositoryCore.dll
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/bin/Debug/net8.0/Infrastructure.RepositoryCore.pdb
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/obj/Debug/net8.0/Infrastructure.RepositoryCore.GeneratedMSBuildEditorConfig.editorconfig
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/obj/Debug/net8.0/Infrastructure.RepositoryCore.AssemblyInfoInputs.cache
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/obj/Debug/net8.0/Infrastructure.RepositoryCore.AssemblyInfo.cs
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/obj/Debug/net8.0/Infrastructure.RepositoryCore.csproj.CoreCompileInputs.cache
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/obj/Debug/net8.0/Infrastructure.RepositoryCore.sourcelink.json
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/obj/Debug/net8.0/Infrastructure.RepositoryCore.dll
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/obj/Debug/net8.0/refint/Infrastructure.RepositoryCore.dll
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/obj/Debug/net8.0/Infrastructure.RepositoryCore.pdb
+/home/jbmelberg/Git/Inter.ServiceTimer/Infrastructure.RepositoryCore/obj/Debug/net8.0/ref/Infrastructure.RepositoryCore.dll
