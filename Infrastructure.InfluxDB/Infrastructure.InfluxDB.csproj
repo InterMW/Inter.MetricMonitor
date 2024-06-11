@@ -5,5 +5,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+    <ItemGroup>
+      <PackageReference Include="MelbergFramework.Infrastructure.InfluxDB" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\Infrastructure.RepositoryCore\Infrastructure.RepositoryCore.csproj" />
+  </ItemGroup>
 
 </Project>

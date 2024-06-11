@@ -1,4 +1,4 @@
-name: Plane Wrangler CI-CD
+name: Service Timer CI-CD
 
 on:
   push:
