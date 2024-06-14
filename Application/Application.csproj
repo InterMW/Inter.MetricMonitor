@@ -4,6 +4,20 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>a1b333aa-527b-43ad-974e-976b74e714f7</UserSecretsId>
   </PropertyGroup>
 
+    <ItemGroup>
+  		<PackageReference Include="MelbergFramework.Application" Version="8.0.8" />
+        <PackageReference Include="MelbergFramework.Infrastructure.InfluxDB" Version="8.0.2" />
+  		<PackageReference Include="MelbergFramework.Infrastructure.Rabbit" Version="8.0.14" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Domain\Domain.csproj" />
+      <ProjectReference Include="..\DomainService\DomainService.csproj" />
+      <ProjectReference Include="..\Infrastructure.InfluxDB\Infrastructure.InfluxDB.csproj" />
+      <ProjectReference Include="..\Infrastructure.RepositoryCore\Infrastructure.RepositoryCore.csproj" />
+    </ItemGroup>
 </Project>
