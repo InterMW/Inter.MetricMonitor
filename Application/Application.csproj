@@ -19,6 +19,5 @@
       <ProjectReference Include="..\DomainService\DomainService.csproj" />
       <ProjectReference Include="..\Infrastructure.InfluxDB\Infrastructure.InfluxDB.csproj" />
       <ProjectReference Include="..\Infrastructure.RepositoryCore\Infrastructure.RepositoryCore.csproj" />
-      <ProjectReference Include="..\Tests\Tests.csproj" />
     </ItemGroup>
 </Project>
