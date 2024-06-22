@@ -27,6 +27,5 @@ This project uses the MelbergFramework nuget package, please see [its github rep
 |Product|Details|Database Install Link|
 |-|-|-|
 |InfluxDB| You will need a bucket called service_data, change the InfluxDBContext value of the ConnectionStrings section of [appsettings.json](Application/appsettings.json).| Docker installation guide for influxdb [here](https://hub.docker.com/_/influxdb).|
-|RabbitMQ| The code will create the exchanges, queues, and bindings for you, just update the Rabbit:ClientDeclarations:Connections:0 details in [appsettings.json](Application/appsettings.json).
-| Docker installation guide for RabbitMQ [here](https://hub.docker.com/_/rabbitmq).|
+|RabbitMQ| The code will create the exchanges, queues, and bindings for you, just update the Rabbit:ClientDeclarations:Connections:0 details in [appsettings.json](Application/appsettings.json).| Docker installation guide for RabbitMQ [here](https://hub.docker.com/_/rabbitmq).|
 
